@@ -1,0 +1,254 @@
+body {
+    background-color: rgb(209, 200, 200);
+}
+
+.text-align {
+    text-align: center;
+}
+
+.clear-fix {
+    clear: both;
+}
+
+.container {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.nav-bar {
+    background: linear-gradient(120deg, #283457, #6535ED);
+    padding: 20px;
+    border-radius: 20px;
+
+
+
+}
+
+button {
+    border: none;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.about {
+    margin-top: 20px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.about .card {
+    /* background-color: blue; */
+    padding: 10px;
+}
+
+.about .card .infoimg {
+    width: 20%;
+}
+
+.about .card .infoimg img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    float: left;
+    /* background-color: black; */
+    padding: 15px;
+
+
+}
+
+.about .card .infop p {
+    width: 70%;
+    float: left;
+    /* background-color: green; */
+    margin-top: 50px;
+    /* padding-right: 60px; */
+}
+.about .card .infop span{
+    color: blue;
+    font-weight: bold;
+}
+
+.about .card button {
+    background-color: rgb(54, 54, 158);
+    padding: 15px;
+    color: white;
+}
+
+.skills{
+    background-color: white;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+.skills h2{
+    color: blue;
+}
+/* .my-50{
+    margin:4p auto;
+} */
+/* .myskills{
+    margin-left: 10%;
+} */
+/* .xxhtml{
+    padding: 10px;
+}
+.xxcss3{
+    padding: 10px;
+}
+.xxjava{
+    padding: 10px;
+}
+.XXreact{
+    padding: 10px;
+} */
+.skills .xxhtml{
+    background-color: whitesmoke;
+    width: 25%;
+    float: left;
+    padding: 2px;
+    box-sizing: border-box;
+    padding-bottom: 5px;
+    border: 1px gray solid;
+    border-radius: 7px;
+    /* margin: 3px ; */
+    text-align: center;
+    
+
+}
+.skills .xxcss3{
+       background-color: whitesmoke;
+    width: 25%;
+    float: left;
+    padding: 2px;
+    box-sizing: border-box;
+    padding-bottom: 5px;
+    border: 1px gray solid;
+    border-radius: 7px;
+    /* margin: 3px; */
+    text-align: center;
+
+}
+.skills .xxjava{
+    background-color:whitesmoke;
+    width: 25%;
+    float: left;
+    padding: 2px;
+    box-sizing: border-box;
+    padding-bottom: 5px;
+    border: 1px gray solid;
+    border-radius: 7px;
+    /* margin: 3px; */
+    text-align: center;
+
+}
+.skills .XXreact{
+    background-color: whitesmoke;
+    width: 25%;
+    float: left;
+    padding: 2px;
+    box-sizing: border-box;
+    padding-bottom: 5px;
+    border: 1px gray solid;
+    border-radius: 7px;
+    /* margin: 3px ; */
+    text-align: center;
+
+}
+
+
+.seniorimg img{
+     width: 10%;
+     float: left;
+     
+
+}
+/*  */
+.experience{
+    background-color: white;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+.senior-1{
+    background-color: whitesmoke;
+    width: 80%;
+    padding: 30px;
+    display: inline-block;
+    margin-left: 30px;
+    border: #6535ED 2px solid;
+    border-radius: 10px;
+}
+.experience .senior-1 .seniorinfo h4{
+    color: blue;
+}
+.senior-1 .seniorimg img{
+    float: left;
+    margin: 50px auto;
+    margin-right: 30px;
+   
+
+}
+.front-end1{
+    background-color: whitesmoke;
+    width: 80%;
+    padding: 30px;
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 15px;
+    border: #6535ED 2px solid;
+    border-radius: 10px;
+}
+.experience .front-end1 .front-endinfo h4{
+    color: blue;
+}
+.front-end1 .frontimg img{
+     float: left;
+    margin: 50px auto;
+    margin-right: 30px;
+
+}
+.contactme{
+   
+    background: linear-gradient(120deg, #283457, #6535ED);
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+
+.contactme .contactinfo{
+    /* background-color: green; */
+    padding-left: 20px;
+    margin-top: 10px;
+}
+.contactme .contact-buttons button{
+
+    border: none;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+ .contactmme{
+   
+    background: linear-gradient(120deg, #283457, #6535ED);
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+
+.contactmme .contactmmep .span-1 {
+    color: white;
+}
+.contactmme .contactmmep .span-2 {
+    color: black;
+}
